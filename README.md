@@ -20,9 +20,7 @@ PROJET
 					<tr>
 						<td>Age:</td><td><input type="number" min="18" max="90" name="age"  /></td>
 					</tr>
-					<tr>
-						<td>Date de naissance:</td><td><input type="date" name="naissance"  /></td>
-					</tr>
+				
 						</tr>
 				</table>
 			</form>
